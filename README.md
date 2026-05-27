@@ -54,6 +54,10 @@ Custom calendar table used for time intelligence analysis:
 •	Data Modeling   
 
 ## 📷 Dashboard Preview
+![image alt](
+https://github.com/VivekKarippara/petrochemical-refinery-ldar-voc-analysis-powerbi/blob/main/Dashboards/Overview.png
+)
+![image alt](https://github.com/VivekKarippara/petrochemical-refinery-ldar-voc-analysis-powerbi/blob/main/Dashboards/Leak%20Analysis.png)
 
 **Note**  
 This project uses anonymized/refinery-style industrial data for analytical and educational purposes. Sensitive operational information has been excluded.  
