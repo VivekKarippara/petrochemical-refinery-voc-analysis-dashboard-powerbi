@@ -51,6 +51,13 @@ Custom calendar table used for time intelligence analysis:
 •	Power Query   
 •	Data Modeling   
 
+## 📈 Key Insights
+•	Monitored VOC emissions across 38,456 refinery components.    
+•	Identified 128 high-severity leak cases.   
+•	Recorded total VOC emissions of 89.66 kg/day.     
+•	Identified Pump Seal as the highest VOC-emitting equipment category.    
+•	Evaluated repair effectiveness with 92% VOC reduction after repairs.    
+
 ## 📷 Dashboard Preview
 ![image alt](
 https://github.com/VivekKarippara/petrochemical-refinery-voc-analysis-dashboard-powerbi/blob/de648ec0e1aed3beaea84965bb9bbbf071991023/Dashboards/Overview.PNG
