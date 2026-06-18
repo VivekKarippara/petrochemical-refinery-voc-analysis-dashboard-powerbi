@@ -53,9 +53,9 @@ Custom calendar table used for time intelligence analysis:
 
 ## 📷 Dashboard Preview
 ![image alt](
-https://github.com/VivekKarippara/petrochemical-refinery-ldar-voc-analysis-powerbi/blob/main/Dashboards/Overview.png
+https://github.com/VivekKarippara/petrochemical-refinery-voc-analysis-dashboard-powerbi/blob/de648ec0e1aed3beaea84965bb9bbbf071991023/Dashboards/Overview.PNG
 )
-![image alt](https://github.com/VivekKarippara/petrochemical-refinery-ldar-voc-analysis-powerbi/blob/main/Dashboards/Leak%20Analysis.png)
+![image alt](https://github.com/VivekKarippara/petrochemical-refinery-voc-analysis-dashboard-powerbi/blob/de648ec0e1aed3beaea84965bb9bbbf071991023/Dashboards/Leak%20Analysis.PNG)
 
 **Note**  
 This project uses anonymized/refinery-style industrial data for analytical and educational purposes. Sensitive operational information has been excluded.  
