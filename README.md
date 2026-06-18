@@ -33,7 +33,7 @@ Custom calendar table used for time intelligence analysis:
 •	Repair Efficiency   
 •	Top Emitting Equipment  
 •	Average Screening Value   
-•	High Severity Leaks 
+•	High Severity Leaks   
 •	Total Components   
 
 ## 📈 Dashboard Features
