@@ -30,11 +30,11 @@ Custom calendar table used for time intelligence analysis:
 
 ## 🎯 Key KPIs
 •	Total VOC Emission   
-•	Leak Count   
-•	High Severity Leaks   
-•	VOC Reduction %   
-•	Inspection Coverage   
-•	Chronic Leaking Components   
+•	Repair Efficiency   
+•	Top Emitting Equipment  
+•	Average Screening Value   
+•	High Severity Leaks 
+•	Total Components   
 
 ## 📈 Dashboard Features
 •	VOC emission trend analysis   
